@@ -79,9 +79,9 @@ Visualization: Functions, loops, and decision branches dynamically visualized wi
 Contributions are welcome! Fork the repository, make improvements, and open a pull request.  
 
 ## 📧 Contact
-Developer:   
-GitHub:  
-LinkedIn:   
-Email:  
+Developer:   Budata Srija
+GitHub:  https://github.com/Srija163
+Email:  budatasrija163@gmail.com
 
 ⭐ If you find this project useful, please star the repository! ⭐
+
